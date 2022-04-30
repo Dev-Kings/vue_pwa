@@ -1,4 +1,4 @@
-# vue frontend with pwa
+# Vue frontend with PWA
 
 ## Project setup
 ```
