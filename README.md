@@ -1,4 +1,4 @@
-# vue-crash-2022
+# vue frontend with pwa
 
 ## Project setup
 ```
