@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "id": 117,
+      "text": "Play Chess",
+      "day": "29/04/2022",
+      "time": "14:06:58",
+      "reminder": true
+    },
+    {
+      "id": 723,
+      "text": "Road Test ",
+      "day": "29/04/2022",
+      "time": "14:07:21",
+      "reminder": true
+    },
+    {
+      "text": "Code Code Code",
+      "day": "29/04/2022",
+      "time": "14:33:58",
+      "reminder": true,
+      "id": 941
+    },
+    {
+      "text": "Walk",
+      "day": "29/04/2022",
+      "time": "18:00:04",
+      "reminder": true,
+      "id": 943
+    },
+    {
+      "text": "Learn MERN",
+      "day": "30/04/2022",
+      "time": "15:48:22",
+      "reminder": true,
+      "id": 944
+    },
+    {
+      "text": "Visit SACCO",
+      "day": "30/04/2022",
+      "time": "15:51:11",
+      "reminder": true,
+      "id": 945
+    },
+    {
+      "text": "Clear trash",
+      "day": "30/04/2022",
+      "time": "16:00:51",
+      "reminder": true,
+      "id": 946
+    },
+    {
+      "text": "Swim",
+      "day": "30/04/2022",
+      "time": "16:04:59",
+      "reminder": true,
+      "id": 947
+    },
+    {
+      "text": "Skim through Docker",
+      "day": "30/04/2022",
+      "time": "16:06:14",
+      "reminder": true,
+      "id": 948
+    }
+  ]
+}

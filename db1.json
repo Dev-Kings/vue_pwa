@@ -1,0 +1,145 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "tasks": [
+      {
+        "id": "1",
+        "text": "Learn Vue",
+        "day": "Thursday",
+        "reminder": true
+      },
+      {
+        "id": "2",
+        "text": "Learn Laravel",
+        "day": "Thursday",
+        "reminder": false
+      },
+      {
+        "id": "3",
+        "text": "Learn Python",
+        "day": "Tuesday",
+        "reminder": true
+      },
+      {
+        "id": "4",
+        "text": "Learn Sanctum v3",
+        "day": "May 15, at 4pm.",
+        "reminder": true
+      },
+      {
+        "id": 823,
+        "text": "Visit SACCO",
+        "day": "Wednesday",
+        "reminder": true
+      },
+      {
+        "id": 309,
+        "text": "Go for hiking",
+        "day": "Tuesday @ 0400",
+        "reminder": true
+      },
+      {
+        "id": 294,
+        "text": "Learn MERN",
+        "day": "fewfwefw",
+        "reminder": false
+      },
+      {
+        "id": 564,
+        "text": "Learn MERN Application",
+        "day": "Friday",
+        "reminder": true
+      },
+      {
+        "id": 288,
+        "text": "Go partying",
+        "day": "Wednesday",
+        "reminder": true
+      },
+      {
+        "id": 481,
+        "text": "fgf",
+        "day": "erewew",
+        "reminder": true,
+        "time": "13:19:23"
+      },
+      {
+        "id": 722,
+        "text": "d",
+        "day": "fdhhh",
+        "reminder": true,
+        "time": "29/04/2022"
+      },
+      {
+        "id": 489,
+        "text": "BLLDLD",
+        "day": "29/04/2022",
+        "time": "13:24:55",
+        "reminder": true
+      },
+      {
+        "id": 211,
+        "text": "Visit SACCO 3444",
+        "day": "29/04/2022",
+        "time": "13:27:07",
+        "reminder": true
+      },
+      {
+        "id": 489,
+        "text": "BLLDLD",
+        "day": "29/04/2022",
+        "time": "13:24:55",
+        "reminder": true
+      },
+      {
+        "id": 211,
+        "text": "Visit SACCO 3444",
+        "day": "29/04/2022",
+        "time": "13:27:07",
+        "reminder": true
+      },
+      {
+        "id": 515,
+        "text": "Hey there",
+        "day": "29/04/2022",
+        "time": "13:33:24",
+        "reminder": true
+      },
+      {
+        "id": 597,
+        "text": "Step by step",
+        "day": "29/04/2022",
+        "time": "13:35:58",
+        "reminder": true
+      },
+      {
+        "id": 876,
+        "text": "gfdsge",
+        "day": "29/04/2022",
+        "time": "13:59:13",
+        "reminder": true
+      },
+      {
+        "id": 114,
+        "text": "fwefewfwe",
+        "day": "29/04/2022",
+        "time": "14:04:55",
+        "reminder": true
+      }
+    ]
+  }
